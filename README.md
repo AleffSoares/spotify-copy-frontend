@@ -1,2 +1,7 @@
 # spotify-copy-frontend
-Page Spotify inicial copia ( HTML, CSS and Javascript )
+Página inicial do Spotify 
+
+Linguagem de Marcação HTML, 
+CSS, 
+BOOTSTRAP, 
+JAVASCRIPT 
